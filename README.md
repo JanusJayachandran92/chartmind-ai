@@ -31,7 +31,7 @@ ChartMind AI is a full-stack application that lets you describe any chart in pla
 ## 📁 Project Structure
 
 ```
-ai_data_analyzer/
+chartmind-ai/
 ├── backend/
 │   ├── main.py            # FastAPI app + Strands agent logic
 │   ├── requirements.txt   # Python dependencies
